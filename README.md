@@ -1,2 +1,2 @@
-# My-Cirtificates
-My Cirtificates
+# My-Certificates
+My Certificates
